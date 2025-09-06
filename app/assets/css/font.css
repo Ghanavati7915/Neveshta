@@ -1,4 +1,7 @@
-/*--------------- FA ---------------*/
+/*#region Estedad FA ---------------*/
+/*Estedad-FD-Black*/
+
+/*#region Estedad FA ---------------*/
 
 /*Estedad-FD-Black*/
 @font-face {
@@ -55,8 +58,10 @@
 }
 
 
+/*#endregion*/
 
-/*--------------- EN ---------------*/
+
+/*#region Estedad EN ---------------*/
 
 /*Estedad-Black*/
 @font-face {
@@ -111,3 +116,74 @@
 .Estedad {
     font-family: 'Estedad-Medium', Tahoma, Open Sans Regular, Sans-Serif !important;
 }
+/*#endregion*/
+
+/*#region Cinema ---------------*/
+@font-face {
+    font-family: "Cinema";
+    src: url('../fonts/Cinema/Cinema Full.ttf') format("truetype");
+}
+.Font-Cinema {
+    font-family: 'Cinema', Tahoma, Open Sans Regular, Sans-Serif !important;
+}
+/*#endregion*/
+
+/*#region Lalezar ---------------*/
+@font-face {
+    font-family: "Lalezar";
+    src: url('../fonts/Lalezar/Lalezar-Regular.ttf') format("truetype");
+}
+.Font-Lalezar {
+    font-family: 'Lalezar', Tahoma, Open Sans Regular, Sans-Serif !important;
+}
+/*#endregion*/
+
+/*#region Sahel ---------------*/
+@font-face {
+    font-family: "Sahel";
+    src: url('../fonts/Sahel/Sahel-FD.ttf') format("truetype");
+}
+.Font-Sahel {
+    font-family: 'Sahel', Tahoma, Open Sans Regular, Sans-Serif !important;
+}
+/*#endregion*/
+
+/*#region Shabnam ---------------*/
+@font-face {
+    font-family: "Shabnam";
+    src: url('../fonts/Shabnam/Shabnam.ttf') format("truetype");
+}
+.Font-Shabnam {
+    font-family: 'Shabnam', Tahoma, Open Sans Regular, Sans-Serif !important;
+}
+/*#endregion*/
+
+/*#region Vazir ---------------*/
+@font-face {
+    font-family: "Vazir";
+    src: url('../fonts/Vazir/Vazir.ttf') format("truetype");
+}
+.Font-Vazir {
+    font-family: 'Vazir', Tahoma, Open Sans Regular, Sans-Serif !important;
+}
+/*#endregion*/
+
+/*#region DastNevis ---------------*/
+@font-face {
+    font-family: "Dast Nevis";
+    src: url('../fonts/DastNevis/DastNevis .otf') format("opentype");
+}
+.Font-Darya {
+    font-family: 'DastNevis', Tahoma, Open Sans Regular, Sans-Serif !important;
+}
+/*#endregion*/
+
+/*#region DastNevis-Darya ---------------*/
+@font-face {
+    font-family: "Digi Darya Bold";
+    src: url('../fonts/Darya/دریا.ttf') format("truetype");
+}
+.Font-Darya {
+    font-family: 'Digi Darya Bold', Tahoma, Open Sans Regular, Sans-Serif !important;
+}
+/*#endregion*/

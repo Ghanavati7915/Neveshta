@@ -1,5 +1,5 @@
 {
-  "name": "cap-mehreyatim-monitoring",
+  "name": "neveshta",
   "type": "module",
   "private": true,
   "scripts": {
@@ -18,6 +18,7 @@
     "nuxt": "^4.0.3",
     "nuxt-marquee": "1.0.4",
     "typescript": "^5.9.2",
+    "hammerjs": "^2.0.8",
     "vue": "^3.5.20",
     "vue-router": "^4.5.1"
   },

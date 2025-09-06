@@ -1,25 +1,11 @@
 {
-  "client_id": "ZamanCharity",
+  "client_id": "Neveshta",
   "is_multi_token": false,
   "environment": "Development",
-  "extra": [
-    {
-      "Tenant" : 0 ,
-      "ScreenInterval" :  4,
-      "MessageInterval" :  10,
-      "NewMessageInterval" :  10
-    },{
-      "Tenant" : 9 ,
-      "URL" :  "https://b2.mehreyatim.ir/api"
-    },
-    {
-      "Tenant" : 3 ,
-      "URL" :  "https://b.mehreyatim.ir/api"
-    }
-  ],
+  "extra": [],
   "database": {
     "version": 1,
-    "db_name": "ZamanCharity",
+    "db_name": "Neveshta",
     "tables_name" : ["config"]
   },
   "api_methods" : {

@@ -3,7 +3,7 @@
 </script>
 
 <template>
-<div class="bg-[#070b0f] fixed w-screen h-screen top-0 left-0 p-5">
+<div>
   <slot/>
 </div>
 </template>

@@ -5,7 +5,7 @@ export default defineNuxtConfig({
     compatibilityDate: '2025-07-15',
     app: {
         head: {
-            title: "مانیتورینگ مراسم ختم",
+            title: "نوشتا",
             charset: "utf-8",
             viewport: "width=device-width, initial-scale=1",
             meta: [
@@ -30,6 +30,6 @@ export default defineNuxtConfig({
         ],
     },
     devServer: {
-        port: 4000,
+        port: 2000,
     },
 })
