@@ -1,0 +1,41 @@
+{
+  "client_id": "ZamanCharity",
+  "is_multi_token": false,
+  "environment": "Development",
+  "extra": [
+    {
+      "Tenant" : 0 ,
+      "ScreenInterval" :  4,
+      "MessageInterval" :  10,
+      "NewMessageInterval" :  10
+    },{
+      "Tenant" : 9 ,
+      "URL" :  "https://b2.mehreyatim.ir/api"
+    },
+    {
+      "Tenant" : 3 ,
+      "URL" :  "https://b.mehreyatim.ir/api"
+    }
+  ],
+  "database": {
+    "version": 1,
+    "db_name": "ZamanCharity",
+    "tables_name" : ["config"]
+  },
+  "api_methods" : {
+    "user_info": "",
+    "authorization_by_app_code": "",
+    "refresh_token": ""
+  },
+  "production" : {
+    "base_url" : "",
+    "redirect_uri": "",
+    "sso_site_url": ""
+  },
+  "development" : {
+    "base_url" : "",
+    "redirect_uri": "",
+    "sso_site_url": ""
+  }
+}
+

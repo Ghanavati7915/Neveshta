@@ -1,0 +1,16 @@
+/*@tailwind base;*/
+/*@tailwind components;*/
+/*@tailwind utilities;*/
+@import "tailwindcss";
+body{
+    direction: rtl;
+    font-family: 'Estedad-FD-Light', Tahoma, Sans-Serif !important;
+}
+
+.dir-rtl{
+    direction: rtl !important;
+}
+
+.dir-ltr{
+    direction: ltr !important;
+}
